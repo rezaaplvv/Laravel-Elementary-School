@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://img.icons8.com/fluency/96/school.png" alt="School Logo" width="80" />
 <h1>WEB PROFIL SDN CIGOWONG</h1>
   <br>
 <p>
