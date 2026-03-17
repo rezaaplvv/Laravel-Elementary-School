@@ -44,7 +44,6 @@ Tampilan Website (User Interface) <br>
 </table>
 </div>
 
-Dashboard Admin (CMS Sekolah) <br>
 <div align="center">
 <table style="width: 100%;">
 <tr>
